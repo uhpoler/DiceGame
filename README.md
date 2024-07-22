@@ -9,8 +9,12 @@ This is a DiceGame for two players, I created it for practicing DOM and Events f
 
 WARNING: If a player rolls a '1', all their current points are lost, and the next player takes their turn.
 
+  ## Flowchart
+  ![pig-game-flowchart](https://github.com/user-attachments/assets/3767a66e-3a97-49cf-ad00-79e11093a80f)
+
   ## Display
   ![dice-display](https://github.com/user-attachments/assets/937489dc-4fcf-48fe-8801-48784d70c79e)
 
   ## Win screen
   ![dice win screen](https://github.com/user-attachments/assets/1bf53734-e57d-44d4-b107-c7aa6dcdf742)
+
